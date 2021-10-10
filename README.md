@@ -1,5 +1,5 @@
-## *Hey!* It's Ernesto! :wave:
-Currently I'm coursing my first year of college. I'm trying to become an successful software engineer.
+## *Hey!* It's Rodrick! :wave:
+Second year of college (thanks god!). I'm trying to become an successful software engineer.
 
 My first git project was [AsteroidesC-G](https://github.com/ErnestoRB/AsteroidesC-G). You should check it out.
 
