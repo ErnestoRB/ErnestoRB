@@ -1,13 +1,15 @@
-## *Hey!* It's Rodrick! :wave:
-Second year of college (thanks god!). I'm trying to become an successful software engineer.
+## *Whats up, boy?!* :wave:
 
-My first git project was [AsteroidesC-G](https://github.com/ErnestoRB/AsteroidesC-G). You should check it out.
+I'm a web developer on third year of college.
 
-What I love:
+Visit [my website](https://ernestorb.com)!
+
+I love...
 - My family :family_man_woman_girl_boy:
-- Make a solution for any kind of problem :bulb:
+- Think new solutions :bulb:
+- Sports
 - Improve my knowledges :brain:
 - Hang out :people_holding_hands:
-- Listen to music every single second. :headphones:
+- Listen to music :headphones:
 
-Life doesn't have any kind of ``` git revert ``` to go back, always thank past, enjoy the present and follow the future!
+Life doesn't have a ``` git revert ``` to go back, always learn from past, enjoy the present and work the future!
