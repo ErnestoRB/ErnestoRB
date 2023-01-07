@@ -1,15 +1,13 @@
-## *Whats up, boy?!* :wave:
+I'm a student who loves web developement.
 
-I'm a web developer on third year of college.
+Check [my website](https://ernestorb.com) to get more info of me.
 
-Visit [my website](https://ernestorb.com)!
-
-I love...
-- My family :family_man_woman_girl_boy:
-- Think new solutions :bulb:
+What I'm passionate about:
+- My family 👨‍👨‍👧‍👦
+- Find solutions :bulb:
 - Sports
-- Improve my knowledges :brain:
-- Hang out :people_holding_hands:
+- Learn new stuff :brain:
+- Meet people :people_holding_hands:
 - Listen to music :headphones:
 
-Life doesn't have a ``` git revert ``` to go back, always learn from past, enjoy the present and work the future!
+>  Life doesn't have a ``` git revert ``` to go back, always learn from past, enjoy the present and work for the future!
